@@ -1,3 +1,4 @@
 Name: XAVI
 Age: 19
 Favorite Color: Black
+Ocupation: Ironhack Student
